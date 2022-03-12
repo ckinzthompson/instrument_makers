@@ -4,6 +4,7 @@ Tracking open hardware, DIY instrumentation projects made in the chemistry depar
 
 ## Projects
 * [Microscope Stage Insert](microscope_stage_insert/20220311_microscope_stage_insert.md)
+* Incubator Microscope
 
 ## Capabilities and tools
 We have: 

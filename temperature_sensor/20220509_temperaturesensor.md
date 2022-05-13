@@ -16,7 +16,7 @@ We needed to track the temperature and humidity in our microscope room, and comm
 ## Parts List 
 * Feather M4 Express ([Adafruit](https://www.adafruit.com/product/3857)  \$23)
 
-* Sensirion SHT40 Temperature & Humidity Sensor ([Adafruit] (https://www.adafruit.com/product/4885) \$6)
+* Sensirion SHT40 Temperature & Humidity Sensor ([Adafruit](https://www.adafruit.com/product/4885) \$6)
 * STEMMA QT / Qwiic JST SH 4-pin to Premium Male Headers Cable - 150mm Long ([Adafruit](https://www.adafruit.com/product/4209) \$1; *note: would use a different one*)
 * FeatherWing OLED - 128x64 OLED Add-on For Feather ([Adafruit](https://www.adafruit.com/product/4650) \$15)
 * Short Feather Male Headers ([Adafruit](https://www.adafruit.com/product/3002) $0.50)

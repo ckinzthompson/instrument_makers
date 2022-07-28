@@ -16,7 +16,7 @@ The test tube rack was taking up a lot of space in the incubator and it was mean
 Prusa i3 MK3S+ fused filament 3D printer
 
 ## Instructions: 
-* Using [OpenSCAD](openscad.org), we came up with this code for the testtube that is used in the lab which can be found [here](tube_holder_v3.scad)
+* Using [OpenSCAD](openscad.org), we came up with this code for the testtube that is used in the lab which can be found [here](test_tube_holder_v3.scad)
 
 * Convert the OpenSCAD file to be compatible with your 3D printer
 * Slice the file on your 3D printer

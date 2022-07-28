@@ -23,7 +23,7 @@ screws
 - 2× planoconvex lens, f' = +40 mm, diameter 25,4 mm  (LA1422)
 
 - 1× planoconcave lens, f' = -50 mm, diameter 25,4 mm (LC1715)
-- 
+
 ### Screws 
 > 16× - 32× Screws DIN912 ISO 4762 M3×12 mm
 

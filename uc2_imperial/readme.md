@@ -4,6 +4,7 @@
 * Location: Rutgers University-Newark
 
 ## Overview:
+[UC2 GitHub](https://github.com/openUC2/UC2-GIT)
 
 screws
 :pizza:

@@ -4,7 +4,7 @@
 * Location: Rutgers University-Newark
 
 ## Overview:
-[UC2 GitHub](https://github.com/openUC2/UC2-GIT)
+We want to make the [UC2](https://github.com/openUC2/UC2-GIT) telescope, but it is difficult to find the parts we need from American distributors because the links and texts are often for European stores. Here we will document our work to source the parts from US distributors.
 
 screws
 :pizza:
@@ -12,7 +12,7 @@ screws
 
 
 ## Parts we need
-[UC2 simple box parts](https://github.com/openUC2/UC2-GIT/tree/master/TheBOX/SimpleBOX/BUILD_ME)
+[UC2 telescope parts](https://github.com/openUC2/UC2-GIT/tree/master/APPLICATIONS/APP_SIMPLE-Telescope)
 
 
 ### Lens

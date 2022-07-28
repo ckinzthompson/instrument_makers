@@ -7,6 +7,7 @@
 
 ## Overview: 
  A test tube holder for one single test tube 
+  Put a picture here of the test tube holder 
 
 
 ## Background:
@@ -20,4 +21,9 @@ Prusa i3 MK3S+ fused filament 3D printer
 
 * Convert the OpenSCAD file to be compatible with your 3D printer
 * Slice the file on your 3D printer
+* Print out the test tube holder 
 
+
+
+# Next Steps
+* make a holder using this as a base idea to hold more test tubes 

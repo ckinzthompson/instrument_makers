@@ -22,6 +22,7 @@ screws
 1× planoconcave lens, f' = -50 mm, diameter 25,4 mm
 ### Screws 
 > 16× - 32× Screws DIN912 ISO 4762 M3×12 mm
+
 we think these are magnetic:
 [https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/thread-size~m3/)
 

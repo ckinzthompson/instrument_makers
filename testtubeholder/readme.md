@@ -27,4 +27,4 @@ Prusa i3 MK3S+ fused filament 3D printer
 
 
 # Next Steps
-* make a holder using this as a base idea to hold more test tubes 
+* Make a holder using this as a base idea to hold more test tubes 

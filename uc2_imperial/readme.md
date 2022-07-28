@@ -21,7 +21,8 @@ screws
 2× planoconvex lens, f' = +40 mm, diameter 25,4 m
 1× planoconcave lens, f' = -50 mm, diameter 25,4 mm
 ### Screws 
-https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/
+we think they are magnetic 
+[https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/thread-size~m3/)
 
 ### Other
 https://www.kjmagnetics.com/products.asp?cat=12&gclid=Cj0KCQjw54iXBhCXARIsADWpsG9lhsa8pFXLu3gmQZcJsKxvpz_3JepoW4MB4d3w4redV-7eLQv_9CgaAlkxEALw_wcB

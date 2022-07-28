@@ -14,6 +14,7 @@ screws
 ## Parts we need
 Link to the UC2 applications page goes here
 ### Lens
+[Thorlabs lenses](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=112)
 
 ### Screws
 

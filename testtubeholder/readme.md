@@ -21,7 +21,7 @@ Prusa i3 MK3S+ fused filament 3D printer
 * Using [OpenSCAD](openscad.org), we came up with this code for the testtube that is used in the lab which can be found [here](test_tube_holder_v3.scad)
 
 * Convert the OpenSCAD file to be compatible with your 3D printer
-* Slice the file on your 3D printer
+* Slice the file on your 3D printer add what the print time is 
 * Print out the test tube holder 
 
 

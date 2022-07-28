@@ -31,5 +31,7 @@ we think these are magnetic:
 
 ### Magnets
 https://www.kjmagnetics.com/products.asp?cat=12&gclid=Cj0KCQjw54iXBhCXARIsADWpsG9lhsa8pFXLu3gmQZcJsKxvpz_3JepoW4MB4d3w4redV-7eLQv_9CgaAlkxEALw_wcB
+
 size needed 5mm(3/16 inch)
+
 https://www.kjmagnetics.com/proddetail.asp?prod=S3

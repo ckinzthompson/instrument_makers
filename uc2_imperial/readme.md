@@ -12,7 +12,9 @@ screws
 
 
 ## Parts we need
-Link to the UC2 applications page goes here
+[UC2 simple box parts](https://github.com/openUC2/UC2-GIT/tree/master/TheBOX/SimpleBOX/BUILD_ME)
+
+
 ### Lens
 [Thorlabs lenses](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=112)
 1× planoconvex lens, f' = +100 mm, diameter 25,4 mm

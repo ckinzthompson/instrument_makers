@@ -28,7 +28,7 @@ screws
 > 16× - 32× Screws DIN912 ISO 4762 M3×12 mm
 
 - we think these are magnetic:
-- [https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/](https://www.mcmaster.com/screws/socket-head-- -screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/thread-size~m3/)
+[https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/](https://www.mcmaster.com/screws/socket-head-- -screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/thread-size~m3/)
 
 ### Magnets
 - https://www.kjmagnetics.com/products.asp?cat=12&gclid=Cj0KCQjw54iXBhCXARIsADWpsG9lhsa8pFXLu3gmQZcJsKxvpz_3JepoW4MB4d3w4redV-7eLQv_9CgaAlkxEALw_wcB
@@ -36,3 +36,6 @@ screws
 - size needed 5mm(3/16 inch)
 
 - https://www.kjmagnetics.com/proddetail.asp?prod=S3
+
+### Objective Lens
+RMS4X Thorlabs

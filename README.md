@@ -6,6 +6,7 @@ Tracking open hardware, DIY instrumentation projects made in the chemistry depar
 * [UC2 building](uc2_imperial/readme.md)
 * [Microscope Stage Insert](microscope_stage_insert/20220311_microscope_stage_insert.md)
 * [Temperature and Humidity Sensor](temperature_sensor/20220509_temperaturesensor.md)
+* [Single Testtube Holder](testtubeholder/readme.md)
 * Incubator microscope
 
 

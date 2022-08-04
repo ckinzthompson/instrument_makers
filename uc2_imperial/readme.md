@@ -1,4 +1,4 @@
-# UC2 conversion to US supliers
+# UC2 conversion to US suppliers
 * People: names go here
 * Date: date goes here
 * Location: Rutgers University-Newark

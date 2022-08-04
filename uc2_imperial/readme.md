@@ -19,23 +19,25 @@ screws
 [Thorlabs lenses](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=112)
 
 - 1× planoconvex lens, f' = +100 mm, diameter 25,4 mm (LA1509)
-
 - 2× planoconvex lens, f' = +40 mm, diameter 25,4 mm  (LA1422)
-
 - 1× planoconcave lens, f' = -50 mm, diameter 25,4 mm (LC1715)
 
 ### Screws 
-> 16× - 32× Screws DIN912 ISO 4762 M3×12 mm
+> "16× - 32× Screws DIN912 ISO 4762 M3×12 mm"
 
-- we think these are magnetic:
-[https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/](https://www.mcmaster.com/screws/socket-head-- -screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/thread-size~m3/)
+[screws] (https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/alloy-steel-socket-head-screws-8/)
+- 46 M3x12 (McMasterCarr 91290A117; 100 pack) (magnetic)
+- 48 M3x80 (McMasterCarr 91290A113; 100 pack) (magnetic)
+- 66 M5x8  (McMasterCarr 91290A222; 100 pack) (magnetic)
+- 1  M3x30 (McMasterCarr 95435A973; 1) (Titanium = non-magnetic)
+- M3 Nuts  (McMasterCarr 90593A001; 100 pack)
 
 ### Magnets
-- https://www.kjmagnetics.com/products.asp?cat=12&gclid=Cj0KCQjw54iXBhCXARIsADWpsG9lhsa8pFXLu3gmQZcJsKxvpz_3JepoW4MB4d3w4redV-7eLQv_9CgaAlkxEALw_wcB
+size needed 5mm (3/16 inch)
+- 216 pack of 5mm ball magnets https://totalelement.com/collections/sphere-magnets/products/5mm-neodymium-rare-earth-sphere-magnets-n35-216-pack
 
-- size needed 5mm(3/16 inch)
-
-- https://www.kjmagnetics.com/proddetail.asp?prod=S3
-
-### Objective Lens
-RMS4X Thorlabs
+### Other
+- 4x Objective Lens: (Thorlabs RMS4X)
+- Flashligh (McMasterCarr 2036K52)
+- Two 3cm x 3cm flat mirrors (?)
+- Electric screwdriver (?)

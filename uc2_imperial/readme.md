@@ -34,7 +34,7 @@ screws
 
 ### Magnets
 size needed 5mm (3/16 inch)
-- 216 pack of 5mm ball magnets https://totalelement.com/collections/sphere-magnets/products/5mm-neodymium-rare-earth-sphere-magnets-n35-216-pack
+- 32 5mm ball magnets https://totalelement.com/collections/sphere-magnets/products/5mm-neodymium-rare-earth-sphere-magnets-n35-216-pack
 
 ### Other
 - 4x Objective Lens: (Thorlabs RMS4X)

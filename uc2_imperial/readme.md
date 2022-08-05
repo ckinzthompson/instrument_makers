@@ -39,5 +39,4 @@ size needed 5mm (3/16 inch)
 ### Other
 - 4x Objective Lens: (Thorlabs RMS4X)
 - Flashligh (McMasterCarr 2036K52)
-- Two 3cm x 3cm flat mirrors (?)
-- Electric screwdriver (?)
+- Mirror tiles (https://www.amazon.com/Pieces-Adhesive-Projects-Supplies-Decoration/dp/B09YQ69LPN/ref=psdc_262611011_t1_B089ZRVKGF?th=1)
